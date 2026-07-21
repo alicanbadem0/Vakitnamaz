@@ -1,0 +1,12 @@
+{
+  "appId": "com.niyet.ibadet",
+  "appName": "VakitNamaz",
+  "webDir": "www",
+  "backgroundColor": "#0a3d3a",
+  "plugins": {
+    "LocalNotifications": {
+      "smallIcon": "ic_stat_icon",
+      "iconColor": "#0f766e"
+    }
+  }
+}

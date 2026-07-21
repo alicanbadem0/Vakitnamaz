@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">VakitNamaz</string>
+    <string name="title_activity_main">VakitNamaz</string>
+    <string name="package_name">com.niyet.ibadet</string>
+    <string name="custom_url_scheme">com.niyet.ibadet</string>
+    <string name="widget_description">Sıradaki namaz vakti ve geri sayımı gösterir</string>
+</resources>

@@ -1,0 +1,22 @@
+{
+  "name": "vakitnamaz",
+  "version": "1.0.0",
+  "description": "VakitNamaz - Namaz Vakti ve İbadet Takibi",
+  "scripts": {
+    "sync": "npx cap sync",
+    "open-android": "npx cap open android"
+  },
+  "dependencies": {
+    "@capacitor/core": "^6.0.0",
+    "@capacitor/android": "^6.0.0",
+    "@capacitor/app": "^6.0.0",
+    "@capacitor/local-notifications": "^6.0.0",
+    "@capacitor/haptics": "^6.0.0",
+    "@capacitor/geolocation": "^6.0.0",
+    "@capacitor/status-bar": "^6.0.0",
+    "@capacitor/preferences": "^6.0.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.0.0"
+  }
+}
